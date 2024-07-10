@@ -1,0 +1,58 @@
+body{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-top: 300px;
+    background-color: aqua;
+}
+#bu{
+    height: 100px;
+    width: 400px;
+    border: 4px solid #3e6a4b
+    
+    
+}
+.ne-resize {cursor: ne-resize;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
